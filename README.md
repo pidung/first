@@ -1,2 +1,3 @@
-# first
-# Hozzáírok egy picit
+# Ez egy readme file
+
+
